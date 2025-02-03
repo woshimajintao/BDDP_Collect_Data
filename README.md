@@ -5,8 +5,7 @@ Here I used robopal.It was a multi-platform, modular robot simulation framework 
 
 ## RoboPal - Getting Started 🚀
 
-RoboPal is a powerful and efficient robotics framework designed for research and industrial applications. This guide will help you set up your environment and get started with RoboPal.
-
+RoboPal is a powerful and efficient robotics framework designed for research and industrial applications. 
 ---
 
 ## 📌 **Preparation**
